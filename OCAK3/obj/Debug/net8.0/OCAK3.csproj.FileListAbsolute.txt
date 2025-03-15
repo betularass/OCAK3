@@ -1,0 +1,14 @@
+C:\Users\betül\source\repos\OCAK3\bin\Debug\net8.0\OCAK3.exe
+C:\Users\betül\source\repos\OCAK3\bin\Debug\net8.0\OCAK3.deps.json
+C:\Users\betül\source\repos\OCAK3\bin\Debug\net8.0\OCAK3.runtimeconfig.json
+C:\Users\betül\source\repos\OCAK3\bin\Debug\net8.0\OCAK3.dll
+C:\Users\betül\source\repos\OCAK3\bin\Debug\net8.0\OCAK3.pdb
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\OCAK3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\OCAK3.AssemblyInfoInputs.cache
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\OCAK3.AssemblyInfo.cs
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\OCAK3.csproj.CoreCompileInputs.cache
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\OCAK3.dll
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\refint\OCAK3.dll
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\OCAK3.pdb
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\OCAK3.genruntimeconfig.cache
+C:\Users\betül\source\repos\OCAK3\obj\Debug\net8.0\ref\OCAK3.dll
